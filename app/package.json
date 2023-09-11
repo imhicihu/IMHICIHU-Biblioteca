@@ -1,0 +1,53 @@
+{
+  "name": "IMHICIHU-Biblioteca",
+  "version": "1.0.3",
+  "description": "Un buscador de registros bibliográficos",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build:macos": "electron-builder --macos --dir",
+    "dist:macos": "electron-builder --macos",
+    "build:linux": "electron-builder --linux --dir",
+    "dist:linux": "electron-builder --linux",
+    "build:windows": "electron-builder --win --dir",
+    "dist:windows": "electron-builder --win"
+  },
+  "repository": "https://github.com/imhicihu/Biblio-search/",
+  "keywords": [
+    "Library",
+    "searcher",
+    "records",
+    "imhicihu",
+    "fuzzy-search"
+  ],
+  "author": "IMHICIHU",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^26.1.0",
+    "electron-builder": "^24.6.4",
+    "electron-icon-builder": "^2.0.1"
+  },
+  "build": {
+    "appId": "com.imhicihu.searcher",
+    "copyright": "Copyright © 2023 IMHICIHU",
+    "productName": "IMHICIHU-Biblioteca",
+    "electronVersion": "1.0.3",
+    "mac": {
+      "icon": "./build/icons/mac/icon.icns",
+      "category": "public.app-category.education"
+    },
+    "win": {
+      "target": [
+        "nsis"
+      ]
+    },
+    "linux": {
+      "icon": "./build/icons/png/512x512.png",
+      "target": [
+        "AppImage",
+        "deb"
+      ],
+      "category": "Searcher;Library;Records;"
+    }
+  }
+}
