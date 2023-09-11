@@ -1,0 +1,20 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.imhicihu.searcher
+copyright: Copyright © 2023 IMHICIHU
+productName: IMHICIHU-Biblioteca
+electronVersion: 1.0.3
+mac:
+  icon: ./build/icons/mac/icon.icns
+  category: public.app-category.education
+win:
+  target:
+    - nsis
+linux:
+  icon: ./build/icons/png/512x512.png
+  target:
+    - AppImage
+    - deb
+  category: Searcher;Library;Records;
+files: []
