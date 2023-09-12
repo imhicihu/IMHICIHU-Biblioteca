@@ -1,6 +1,7 @@
-![stability-workinprogress](images/477405737-stability_work_in_progress.png)
-![internaluse-green](images/3847436881-internal_use_stable.png)
-![issues-open](images/2944199103-issues_open.png)
+![stability-workinprogress](images/stability-work_in_progress.png)
+![internaluse-green](images/internal_use_Stable.png)
+![issues-open](images/issues_open.png)
+
                                                  (...) a single JSON file can be used as a database.
 # IMHICIHU-Biblioteca
 
