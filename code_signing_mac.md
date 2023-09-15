@@ -35,6 +35,7 @@ xattr -cr /Applications/imhicihu-biblio.app
 
 ---------
 * [Notarizing Your App](https://samuelmeuli.com/blog/2019-12-28-notarizing-your-electron-app/)
+* [Get your software notarized](https://developer.apple.com/developer-id/)
 
 ---------
 * `IMHICIHU-Biblioteca.app` can't be opened opened  because it was not downloaded from the App Store.
