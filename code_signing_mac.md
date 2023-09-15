@@ -2,7 +2,7 @@
 ![](images/2480692657-trasher.jpg)
 * launch `Terminal`
 ```
-xattr -cr /Applications/imhicihu-biblio.app
+xattr -cr /Applications/IMHICIHU-Biblioteca.app
 ```
 ---------
 * check this issue on [code-signing](https://github.com/electron/electron/issues/20027)
