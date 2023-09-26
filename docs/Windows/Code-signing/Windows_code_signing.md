@@ -15,3 +15,4 @@ That's it.
 
 ### Guidelines
 * Check this [checklist](https://www.electron.build/code-signing#windows)
+* [How to Code Sign an Electron App for Windows](https://interactiveknowledge.com/insights/how-code-sign-electron-app-windows)
