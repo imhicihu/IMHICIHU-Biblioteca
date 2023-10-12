@@ -76,6 +76,9 @@
         - [httpster](https://github.com/SimbCo/httpster)
       - Virtual machine
         - [UTM](https://github.com/utmapp/UTM): operating systems testing in one machine 
+      - Archiving
+        - [DMG Archiver](https://github.com/coteditor/DMGArchiver): Script for non-AppStore version releasing
+
       - Hash
         - [fhash](https://github.com/sunjw/fhash)
       - Packages management
@@ -132,7 +135,13 @@
      - [issuehub.io](http://issuehub.io/): Github issues searcher
      - Windows (and something in between, _ie._ Android environment) [accessibility guidelines](https://github.com/Microsoft/WindowsTemplateStudio/blob/dev/docs/accessibility.md)
      - [Localization checklist](https://www.transifex.com/resources/website-translation-checklist/)
+     - Apple rejections
+       - [Avoiding Common App Rejections](https://developer.apple.com/app-store/review/#common-app-rejections)
 
 ### Legal
 
 * All trademarks are the property of their respective owners.
+
+
+
+
