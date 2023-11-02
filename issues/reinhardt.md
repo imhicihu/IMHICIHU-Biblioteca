@@ -1,13 +1,13 @@
-* Obras de San Juan Cris�stomp, vol. I
+* Obras de San Juan Crisóstomp, vol. I
 * Saad�,Ignacio
 * El Pensamiento Religioso de IBN  JALDUN
 * Sabundus Raimundus
 * Saer, Juan Jose 
-* Repertorio de medievalismo hisp�nico:1955 - 1975  I
-* Repertorio de medievalismo hisp�nico:1955 - 1975  II
+* Repertorio de medievalismo hispánico:1955 - 1975  I
+* Repertorio de medievalismo hispánico:1955 - 1975  II
 * Sagues Azcona, Pio
-* As Controv�rsias sobre a vinda e prregacaao do ap�stolo Santiago em Espanha, Segundo Roa D�vila (1552-ca. 1630)
-* La Biblia en la pen�nsula ib�rica durante la Edad Media (siglos XII_XV): el texto y su interpretaci�n
+* As Controv�rsias sobre a vinda e prregacaao do ap�stolo Santiago em Espanha, Segundo Roa Dávila (1552-ca. 1630)
+* La Biblia en la península ibérica durante la Edad Media (siglos XII_XV): el texto y su interpretación
 * Joaquin de Fiore y Tomas de Aquino
 * Santos Santamarta
 * Schelling, F. W. J
@@ -30,14 +30,14 @@
 * die Fr�hchristliche Kunst
 * Estudios de Valencia. Historia de la Universidad hasat 1616
 * Teubner, B. G
-* Torres Amat, Felix  ---) Torres Amat, F�lix
+* Torres Amat, Felix  ---) Torres Amat, Félix
 * Urbel, Justo.
-* La Espa�a del siglo X:castellanos y leoneses, navarros y gallegos, musulmanes y jud�os, forjadores de historia
+* La España del siglo X:castellanos y leoneses, navarros y gallegos, musulmanes y judíos, forjadores de historia
 * Urlich Horst, P
 * Vacant A   ---) `Vacant, A`
 * Bonaventura:Studien zu seiner Wirkungsgeschichte
 * Vannier, Marie anne   ---) `Vannier, Marie-Anne`
-* Toledo en la historia dfel pensamiento espa�ol renacentista
+* Toledo en la historia dfel pensamiento español renacentista
 * Venerabilis,petrus
 * Juan de Cartagena, O.F.M. (1563-1618). The Mariology og his Homiliae Catholicae and its Baroque Scripturism
 * Vinayo, Antonio
@@ -45,18 +45,18 @@
 * Von Bigen, Hildegard  ---) `Von Bingen, Hildegard`
 * Wofhart Pannenberg  ----) `Pannenberg, Wolfhart`
 * Zimmermann Heinrich ---) `Zimmermann. Heinrich`
-* Exposicao bibiliogr�fica
+* Exposicao bibiliográfica
 * Manuscritos e incunables de la Bilbioteca del Real Seminario Sacerdotal de San Carlos de Zaragoza
-* Scripta arabica orientalia:dos estudios de literatura �rabe cristiana
+* Scripta arabica orientalia:dos estudios de literatura árabe cristiana
 * Scriptur� Sacr� Tomus Vigesimus-Septimus Supllementum
 * Rubio Merino, Pedro (editor)
 * Santiago-Otero, Horacio (editor)
 * Barret, Pierre y Gurgand, Jean
 * jun 1984 / dic 1988 / mar 1989  /  set 1989   /   
 * los marcos regionales-
-* ed. La desconstrucci�n- 
-* la contaminaci�n del agua subterranea con plaguicidas.
+* ed. La desconstrucción- 
+* la contaminación del agua subterranea con plaguicidas.
 * Santiago M. , dir. 
-* L�pez Basavilbaso, G. Argentina. CFI.
-* <GATA>: <Gu�a Argentina de Tr�fico A�reo>. Buenos Aires: Tall. gr�ficos.
+* López Basavilbaso, G. Argentina. CFI.
+* <GATA>: <Guía Argentina de Tráfico Aéreo>. Buenos Aires: Tall. gráficos.
 * Coyuntura, Buenos Aires.
