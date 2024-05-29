@@ -9,6 +9,10 @@
 * This repo is a living document that will grow and adapt over time
 <BR></BR>
 ![graphics.png](images/2023-09-11.gif)
+
+### Installation
+* Download the latest [mac application](dist/mac/IMHICIHU%20-%20Biblioteca-darwin-x64/IMHICIHU%20-%20Biblioteca.app.zip)
+
 ### What is this repository for?
 * Quick summary
     - An application for search digital records through up our library
