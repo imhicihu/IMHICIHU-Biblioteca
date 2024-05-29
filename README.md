@@ -10,8 +10,17 @@
 <BR></BR>
 ![graphics.png](images/2023-09-11.gif)
 
+### Requirements
+* MacOSX Mojave (version 10.14) and above.
+* Not tested on MacOSX Sonoma (version 14).
+
 ### Installation
 * Download the latest [mac application](dist/mac/IMHICIHU%20-%20Biblioteca-darwin-x64/IMHICIHU%20-%20Biblioteca.app.zip)
+* Unzip `IMHICIHU - Biblioteca.app.zip`
+* Move `IMHICIHU - Biblioteca.app` to your `Applications` folder
+> [!TIP]
+> Open `IMHICIHU - Biblioteca.app` for first time by right clicking and selecting `Open`. This adds an exception to Gatekeeper so it doesn't complain about the app not being signed with an Apple Developer certificate
+
 
 ### What is this repository for?
 * Quick summary
