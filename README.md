@@ -19,7 +19,7 @@
 * Unzip `IMHICIHU - Biblioteca.app.zip`
 * Move `IMHICIHU - Biblioteca.app` to your `Applications` folder
 > [!TIP]
-> Open `IMHICIHU - Biblioteca.app` for first time by right clicking and selecting `Open`. This adds an exception to Gatekeeper so it doesn't complain about the app not being signed with an Apple Developer certificate
+> Open `IMHICIHU - Biblioteca.app` for first time by right clicking and selecting `Open`. This adds an exception to Gatekeeper so it doesn't complain about the app not being signed with an [Apple Developer certificate](docs/FAQ.md)
 
 
 ### What is this repository for?
