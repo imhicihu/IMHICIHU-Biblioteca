@@ -11,8 +11,6 @@ Now we can tell electron-installer-windows to sign the packages that it generate
 $ electron-installer-windows --src dist/app-win32-x64/ --dest dist/installers/ --certificateFile my_signing_key.pfx --certificatePassword my_password
 ```
 
-That's it.
-
 ### Guidelines
 * Check this [checklist](https://www.electron.build/code-signing#windows)
 * [How to Code Sign an Electron App for Windows](https://interactiveknowledge.com/insights/how-code-sign-electron-app-windows)
