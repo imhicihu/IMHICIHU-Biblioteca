@@ -5,7 +5,8 @@
                                                  (...) a single JSON file can be used as a database.
 # IMHICIHU-Biblioteca
 
-* The goals proposed and achieved have been minimalism in its design, consistency with other tools soon to appear, and speed of response
+* _Quick summary_: an application for search digital records through up our library
+* The goals proposed and achieved have been minimalism in its design, consistency with other tools and speed of response
 * This repo is a living document that will grow and adapt over time
 <BR></BR>
 ![graphics.png](images/2023-09-11.gif)
@@ -21,13 +22,8 @@
 > [!TIP]
 > Open `IMHICIHU - Biblioteca.app` for first time by right clicking and selecting `Open`. This adds an exception to Gatekeeper so it doesn't complain about the app not being signed with an [Apple Developer certificate](docs/FAQ.md)
 
-
-### What is this repository for?
-* Quick summary
-    - An application for search digital records through up our library
-### Who do I talk to? ###
-* Repo owner or admin
-    - Contact `imhicihu` at `gmail` dot `com`
+### Disclaimer
+* This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes.
 
 ### Code of Conduct
 * Please, check our [Code of Conduct](code_of_conduct.md)
