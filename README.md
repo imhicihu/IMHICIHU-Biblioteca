@@ -20,6 +20,9 @@
 * Unzip `IMHICIHU - Biblioteca.app.zip`
 * Move `IMHICIHU - Biblioteca.app` to your `Applications` folder
 > [!TIP]
+> Since `IMHICIHU - Biblioteca.app` is not signed (due to its costs) so you will need to use a workaround for the first run. The workaround depends on if you're running an Intel or Apple Silicon chip.
+> * For macs with intel chips, follow this [steps](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac). 
+> * For mac with Apple chips, [open a Terminal session](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac) and type this command: 
 > Open `IMHICIHU - Biblioteca.app` for first time by right clicking and selecting `Open`. This adds an exception to Gatekeeper so it doesn't complain about the app not being signed with an [Apple Developer certificate](docs/FAQ.md)
 
 ### Disclaimer
