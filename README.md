@@ -6,14 +6,14 @@
 # IMHICIHU-Biblioteca
 
 * _Quick summary_: an application for search digital records through up our library
-* The goals proposed and achieved have been minimalism in its design, consistency with other tools and speed of response
+* The goals proposed and achieved have been minimalism in its design, consistency with other tools and real-time response
 * This repo is a living document that will grow and adapt over time
 <BR></BR>
 ![graphics.png](images/2023-09-11.gif)
 
 ### Requirements
-* MacOSX Mojave (version 10.14) and above.
-* Not tested on MacOSX Sonoma (version 14).
+* Tested on MacOSX Mojave (version 10.14) to MacOSX Ventura (version 13.6.6)
+* Not tested on MacOSX Sonoma
 
 ### Installation
 * Download the latest [mac application](dist/mac/IMHICIHU%20-%20Biblioteca-darwin-x64/IMHICIHU%20-%20Biblioteca.app.zip)
