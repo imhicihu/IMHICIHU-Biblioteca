@@ -15,6 +15,15 @@
 * Tested on MacOSX Mojave (version 10.14) to MacOSX Ventura (version 13.6.6)
 * Not tested on MacOSX Sonoma
 
+### Usage
+* To run this repository locally in your computer, you'll need [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
+* Then, from your command line:
+
+```bash
+$ npm install
+$ npm start
+```
+
 ### Installation
 * Download the latest [mac application](dist/mac/IMHICIHU%20-%20Biblioteca-darwin-x64/IMHICIHU%20-%20Biblioteca.app.zip)
 * Unzip `IMHICIHU - Biblioteca.app.zip`
