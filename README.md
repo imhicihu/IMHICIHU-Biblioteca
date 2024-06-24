@@ -37,7 +37,7 @@ $ npm start
 > - You can verify which chip your mac have checking this [procedure](https://support.apple.com/en-us/116943)
 
 ### Disclaimer
-* This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes.
+* This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes
 
 ### Code of Conduct
 * Please, check our [Code of Conduct](code_of_conduct.md)
