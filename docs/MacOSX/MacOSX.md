@@ -11,3 +11,6 @@
 
 ### Security strategies
 ![caveat.jpeg](/images/pgp.png)
+
+> [!TIP]
+> [Checksum on mac environment](https://gist.github.com/imhicihu/0c4d4dba1b73df41af1066253c5d4c3d)
