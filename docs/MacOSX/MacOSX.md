@@ -7,8 +7,11 @@
 
 ### Mac security
 ![caveat.jpeg](/images/4208514379-searcher_error.jpeg)
-* If you get a warning that `IMHICIHU-Biblioteca.dmg` can't be opened due to an unidentified developer you have to make sure that under `System Preferences` > `Security & Privacy` > `General` it is allowed to open apps from the `Mac App Store and identified developers`. Then try to open `IMHICIHU-biblio-searcher.dmg` and under `System Preferences` > `Security & Privacy` > `General` click on `Open Anyway`.
-
+* If you get a warning that `IMHICIHU-Biblioteca.dmg` can't be opened due to an unidentified developer you have to make sure that under `System Preferences` > `Security & Privacy` > `General` it is allowed to open apps from the `Mac App Store and identified developers`. Then try to open `IMHICIHU-biblio-searcher.dmg` and under `System Preferences` > `Security & Privacy` > `General` click on `Open Anyway`
+* If you encounter the error message "IMHICIHU-Biblioteca" is damaged and can't be opened, you should move it to the Trash. It may be due to particular security settings restrictions in macOS. To solve this problem, please try the following command in Terminal:
+```
+sudo xattr -r -d com.apple.quarantine /Applications/IMHICIHU-Biblioteca.app`
+```
 ### Security strategies
 ![caveat.jpeg](/images/pgp.png)
 
