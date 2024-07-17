@@ -3,7 +3,7 @@
 ![github.jpg](/images/2861323947-clone_or_download.jpeg)
 * Download the most recent build file _e.g_: `IMHICIHU-Biblioteca.dmg` file
 * Open it up and drag it to your `Applications` folder
-* If you get an error about an unidentified developer, <kbd>⌃ Control</kbd>-click the app and hit open
+* If you get an error about an unidentified developer, <kbd>⌃ Control</kbd>-click the app and hit `Open`
 
 ### Mac security
 ![caveat.jpeg](/images/4208514379-searcher_error.jpeg)
