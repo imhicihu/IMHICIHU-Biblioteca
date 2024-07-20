@@ -2,7 +2,7 @@
 ![internaluse-green](images/internal_use_Stable.png)
 ![issues-open](images/issues_open.png)
 
-                                                 (...) a single JSON file can be used as a database.
+                                       (...) a single JSON file can be used as a database
 # IMHICIHU-Biblioteca
 
 * _Quick summary_: an application for search digital records through up our library
