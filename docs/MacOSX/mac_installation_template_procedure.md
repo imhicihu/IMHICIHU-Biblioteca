@@ -16,4 +16,4 @@ Under the section labeled `Allow applications downloaded from`:, select `Anywher
 Exit System Preferences by clicking the red button in the upper left of the window. You should now be able to install applications downloaded from the internet.
 
 ------------------------
-Note for OSX users: if OSX tells you `Biblio.app` cannot be opened because the developer cannot be verified, you don't need to re-download it. Instead, you need to allow OSX to run the unsigned app. To do this, right click the application in Finder and select Open. Then click Open in the popup window that appears. You only need to do this once.
+Note for OSX users: if OSX tells you `IMHICIHU - Biblioteca.app` cannot be opened because the developer cannot be verified, you don't need to re-download it. Instead, you need to allow OSX to run the unsigned app. To do this, right click the application in Finder and select Open. Then click Open in the popup window that appears. You only need to do this once.
