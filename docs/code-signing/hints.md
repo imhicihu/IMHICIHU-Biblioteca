@@ -1,13 +1,13 @@
 #### Android
-* create a Google Play Developer Account (sign in with your `@gmail` account). 
+* create a Google Play Developer Account (sign in with your `@gmail` account)
 * pay [U$S 25](https://www.appypie.com/faqs/how-much-does-a-googleapple-developer-account-cost) for once and all
 * create app icon according Google Play
 * create splash screen app according Google Play
-* share via [Expo.io](https://expo.io) the app for beta testing.
+* share via [Expo.io](https://expo.io) the app for beta testing
 * generate a [Signed Production APK](https://facebook.github.io/react-native/docs/signed-apk-android.html)
 * create the app in the [Google Play Console](http://play.google.com/)
-* Upload to Google Play
-* Wait the approval
+* upload to Google Play
+* wait the approval
 
 > [!TIP]
 > [Helpful advice for doing things better or more easily.](https://play.google.com/console/about/guides/releasewithconfidence/) 
