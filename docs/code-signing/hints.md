@@ -16,7 +16,6 @@
 * create an account in [Apple developer program](https://developer.apple.com/programs/)
 * pay [u$S99](https://developer.apple.com/programs/how-it-works/) per membership year
 * there is no plan to launch an iOS counterpart
-* check [notification.md](Notification.md)
 * [Pricey](https://developer.apple.com/support/purchase-activation/): 99 U$S dollars annual fee 
 
 #### Guidelines
