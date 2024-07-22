@@ -1,6 +1,6 @@
 ### Steps of code-signing an app
 #### First stage
-* Start with opening `Keychain Access`.
+* Start with opening `Keychain Access`
 
 #### Creating a certificate:
 * `Keychain Access` menu > `Certificate Assistant` > `Create a certificate...`
